@@ -454,6 +454,11 @@
               <FileType>1</FileType>
               <FilePath>..\HARDWARE\bluebooth\bluetooth.c</FilePath>
             </File>
+            <File>
+              <FileName>OLED_Debug.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\OLED\OLED_Debug.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
